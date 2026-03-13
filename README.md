@@ -1,13 +1,15 @@
 # Data Structures and Algorithms in C++
 
-This repository contains my solutions to DSA problems.
+This repository contains my solutions to Data Structures and Algorithms problems.
 
-Language: C++
+Language Used:
+C++
 
 Platforms:
 - LeetCode
 - Codeforces
-- GeeksforGeeks
+- VJudge
+- CodeChef
 
 Topics Covered:
 - Arrays
@@ -20,3 +22,7 @@ Topics Covered:
 - Trees
 - Graphs
 - Dynamic Programming
+- Greedy
+
+Goal:
+Solve 300+ DSA problems to strengthen problem solving skills.
